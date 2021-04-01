@@ -2,3 +2,6 @@ test_git_1
 test_1_line
 test_2_line
 test_4_line
+test_5_line
+test_6_line
+
